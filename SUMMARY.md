@@ -5,4 +5,5 @@
 * [Penentration Testing](penentration-testing.md)
 * [Incident Response](incident-response.md)
 * [Web Hacking](web-hacking.md)
+* [Tools](tools.md)
 
