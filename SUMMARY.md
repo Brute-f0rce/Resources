@@ -6,4 +6,5 @@
 * [Incident Response](incident-response.md)
 * [Web Hacking](web-hacking.md)
 * [Tools](tools.md)
+* [Privacy](privacy.md)
 
