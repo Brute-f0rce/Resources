@@ -6,6 +6,6 @@
 * [Incident Response](incident-response.md)
 * [Web Hacking](web-hacking.md)
 * [Privacy](privacy.md)
-* [Threat Detection and Hunting](threat.detection.and.hunting.md)
+* [Threat Detection and Hunting](threat-detection.md)
 * [Tools](tools.md)
 
